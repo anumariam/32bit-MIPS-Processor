@@ -9,3 +9,5 @@ have implemented 32-bit MIPS processor with one CISC
 operation for multiplication which is realized using a Booth
 multiplier. Processor is tested in Xilinx Nexsys Spartan3 board,
 using a 177MHz clock frequency. 
+
+Published Paper : https://www.ijert.org/fpga-implementation-of-32-bit-mips-processor-with-cisc-multiplication-operation
